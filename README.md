@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning how to read <How To>
 - 💞️ I’m looking to collaborate on [nothing till now]
 - 📫 How to reach me :email:3477765394@qq.com
+- I like playing!
 
 <!---
 luowenzhangBJ/luowenzhangBJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
